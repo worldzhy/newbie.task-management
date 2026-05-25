@@ -1,0 +1,12 @@
+{
+  "config-service": {
+    "task-management": {}
+  },
+  "env": {},
+  "dependencies": {
+    "@nestjs/schedule": "latest",
+    "chinese-days": "latest",
+    "dayjs": "latest"
+  },
+  "devDependencies": {}
+}
